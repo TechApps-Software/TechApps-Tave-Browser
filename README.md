@@ -36,7 +36,8 @@ TechApps Browser Beta
 ### Usted puede elegir entre las ramas del repositorio  siguientes:
 ##### Stable(No disponible) Versiones testeadas sin casi errores
 ##### Beta Versiones casi estables pero con posibles errores
-##### Preview Versiones 100% Inestables con mutiples errores 
-##### WorkStation versiones super estables actualizaciones cada 6 meses ademas de Tave Tools Extension para extensiones de Tave
+##### Preview(NO DISPONIBLE) Versiones 100% Inestables con mutiples errores 
+##### WorkStation (NO DISPONIBLE) versiones super estables actualizaciones cada 6 meses ademas de Tave Tools Extension para extensiones de Taveq
+
 
 
