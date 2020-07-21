@@ -22,16 +22,16 @@ TechApps Browser Beta
 ##### Busqueda en ventanas haz busquedas en ventanas
 ##### Modo Tester testea con la Chromium Tools en un espacio de modo de concetracion
 
-##ADVERTENCIA: Tave esta en etapa de pruebas puede contener multiples errores
+## ADVERTENCIA: Tave esta en etapa de pruebas puede contener multiples errores
 
-#Requisitos minimos
+# Requisitos minimos
 
 #### Windows 10 Home o Pro
 #### 4GB de RAM
 #### Entre 150 a 500Mb de espacio
 #### Conexion a internet
 
-#Instalacion
+# Instalacion
 
 ### Usted puede elegir entre las ramas del repositorio  siguientes:
 ##### Stable(No disponible) Versiones testeadas sin casi errores
