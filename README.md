@@ -22,3 +22,21 @@ TechApps Browser Beta
 ##### Busqueda en ventanas haz busquedas en ventanas
 ##### Modo Tester testea con la Chromium Tools en un espacio de modo de concetracion
 
+##ADVERTENCIA: Tave esta en etapa de pruebas puede contener multiples errores
+
+#Requisitos minimos
+
+#### Windows 10 Home o Pro
+#### 4GB de RAM
+#### Entre 150 a 500Mb de espacio
+#### Conexion a internet
+
+#Instalacion
+
+### Usted puede elegir entre las ramas del repositorio  siguientes:
+##### Stable(No disponible) Versiones testeadas sin casi errores
+##### Beta Versiones casi estables pero con posibles errores
+##### Preview Versiones 100% Inestables con mutiples errores 
+##### WorkStation versiones super estables actualizaciones cada 6 meses ademas de Tave Tools Extension para extensiones de Tave
+
+
