@@ -16,22 +16,22 @@ TechApps Browser Beta
  
 ## Ramas de desarrollo:
 
-### Estable https://github.com/TechAppsSv/tavebrowser/tree/stable
+### Stable https://github.com/TechAppsSv/tavebrowser/tree/stable
 ### Beta https://github.com/TechAppsSv/tavebrowser/tree/beta
 ### Preview https://github.com/TechAppsSv/tavebrowser/tree/preview
 ### WorkStation : https://github.com/TechAppsSv/tavebrowser/tree/workstation
 ### Documentacion Basica https://github.com/TechAppsSv/tavebrowser/tree/docs
 
 ## Notas de Version:
-###  Build 1.02 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/Notas De Version Build 1.02.md
+###  Build 1.02 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersionBuild1.02.md
 
 ## Descargas
 
 ### Stable Realases: 
-#### Build: 1.0 : #### No Disponible
+#### Build: 1.0 :  No Disponible
 
 ### Beta Realases :
-#### Build 1.02 : https://github.com/TechAppsSv/tavebrowser/blob/beta/Tave Browser 1.02.md
+#### Build 1.02 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.02.md
 
 ### Preview Realases:
 #### Build 1.03 : No Disponible
