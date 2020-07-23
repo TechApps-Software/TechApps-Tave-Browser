@@ -25,7 +25,7 @@ TechApps Browser Beta
 ## Notas de Version:
 ###  Build 1.02 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersionBuild1.02.md
 ###  Build 1.03 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersion1.03BuildBeta.md
-
+###  Build 1.04 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersion1.04BuildBeta.md
 ## Descargas
 
 ### Stable Realases: 
@@ -63,7 +63,8 @@ TechApps Browser Beta
 
 #### Windows 10 Home o Pro
 #### 4GB de RAM
-#### Entre 150 a 500Mb de espacio
+#### Entre 150 a 500Mb de espacio(Hasta 1.03)
+#### Entre 600Mb a 800Mb
 #### Conexion a internet
 
 # Instalacion
