@@ -34,7 +34,7 @@ TechApps Browser Beta
 ### Beta Realases :
 #### Build 1.02 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.02.md
 #### Build 1.03 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowse1.03.md
-#### Build 1.04 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowse1.04.md
+#### Build 1.04 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.04.md
 
 ### Preview Realases:
 #### Build 1.03 : No Disponible
