@@ -24,6 +24,7 @@ TechApps Browser Beta
 
 ## Notas de Version:
 ###  Build 1.02 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersionBuild1.02.md
+###  Build 1.03 Beta https://github.com/TechAppsSv/tavebrowser/blob/docs/NotasDeVersion1.03BuildBeta.md
 
 ## Descargas
 
