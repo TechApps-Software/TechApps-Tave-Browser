@@ -31,19 +31,13 @@ TechApps Browser Beta
 ## Descargas
 
 ### Stable Realases: 
-#### Build: 1.0 :  No Disponible
+  https://techappssv.github.io/Tave/index.html#tres
 
-### Beta Realases :
-#### Build 1.02 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.02.md
-#### Build 1.03 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowse1.03.md
-#### Build 1.04 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.04.md
-#### Build 1.05 : https://github.com/TechAppsSv/tavebrowser/blob/beta/TaveBrowser1.05.md
+### Insiders Realases :
+https://techappssv.github.io/Tave/index.html#tres
 
-### Preview Realases:
-#### Build 1.03 : No Disponible
-
-### WorStation Realases :
-#### Build 0.9 : No Disponible
+### WorkStation Realases :
+#### Build 1.06 : No Disponible
 
 # Caracteristicas de Tave Browser:
 ##### Interfaz Moderna En Dark Mode Construida En JavaScrit, Boostrap Y Font Awesome
@@ -51,8 +45,8 @@ TechApps Browser Beta
 ##### Navegacion Rapida con NPM Electron-Navigation
 ##### Barra lateral de aplicaciones 
 ##### Facebook,Messenger Y Github En Vista Barra Lateral
-##### Sincronizacion de contraseñas con Tave Sync
-##### Tave Notes con sincronizacion en Tave Sync
+##### Sincronizacion de contraseñas con Tave Sync(DESCONTINUADO)
+##### Tave Notes con sincronizacion en Tave Sync(DESCONTINUADO)
 ##### Lanzador de aplicaciones web Ejecuta paginas web como que si fueran aplicaciones nativas
 ##### Modo pantalla dividida
 ##### Personalizacion al gusto de tamaños y colores
@@ -67,14 +61,15 @@ TechApps Browser Beta
 
 #### Windows 10 Home o Pro
 #### 4GB de RAM
-#### Entre 150 a 500Mb de espacio(Hasta 1.03)
-#### Entre 600Mb a 800Mb
+#### Entre 150 a 500Mb de espacio(Menos 1.04 y 1.05)
+#### Entre 600Mb a 800Mb(Para Versiones 1.04 y 1.05)
+
 #### Conexion a internet
 
 # Instalacion
 
 ### Usted puede elegir entre las ramas del repositorio  siguientes:
-##### Stable(No disponible) Versiones testeadas sin casi errores
+##### Stable Versiones testeadas sin casi errores
 ##### Beta Versiones casi estables pero con posibles errores
 ##### Preview(NO DISPONIBLE) Versiones 100% Inestables con mutiples errores 
 ##### WorkStation (NO DISPONIBLE) versiones super estables actualizaciones cada 6 meses ademas de Tave Tools Extension para extensiones de Tave)
