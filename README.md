@@ -41,7 +41,7 @@ https://techappssv.github.io/Tave/index.html#tres
 
 # Caracteristicas de Tave Browser:
 ##### Interfaz Moderna En Dark Mode Construida En JavaScrit, Boostrap Y Font Awesome+
-https://techappssv.github.io/Tave/1.png
+image[https://techappssv.github.io/Tave/1.png]
 ##### Hecho con Electron e incluyendo las Chromium Dev Tools
 ##### Navegacion Rapida con NPM Electron-Navigation
 ##### Barra lateral de aplicaciones 
