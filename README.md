@@ -44,18 +44,29 @@ https://techappssv.github.io/Tave/index.html#tres
 
 ![alt text](https://techappssv.github.io/Tave/1.png)
 ##### Hecho con Electron e incluyendo las Chromium Dev Tools
+![alt text](https://techappssv.github.io/Tave/10.png)
 ##### Navegacion Rapida con NPM Electron-Navigation
+
 ##### Barra lateral de aplicaciones 
+
 ##### Facebook,Messenger Y Github En Vista Barra Lateral
+![alt text](https://techappssv.github.io/Tave/3.png)
 ##### Sincronizacion de contraseñas con Tave Sync(DESCONTINUADO)
 ##### Tave Notes con sincronizacion en Tave Sync(DESCONTINUADO)
 ##### Lanzador de aplicaciones web Ejecuta paginas web como que si fueran aplicaciones nativas
+![alt text](https://techappssv.github.io/Tave/4.png)
 ##### Modo pantalla dividida
+![alt text](https://techappssv.github.io/Tave/6.png)
 ##### Personalizacion al gusto de tamaños y colores
+![alt text](https://techappssv.github.io/Tave/2.png)
 ##### Modo de desarrollo espacio aislado para concentracion y con barra lateral
+![alt text](https://techappssv.github.io/Tave/1.png)
 ##### Tave Code editor de codigo basico con completado HTML 
+![alt text](https://techappssv.github.io/Tave/1.png)
 ##### Busqueda en ventanas haz busquedas en ventanas
+![alt text](https://techappssv.github.io/Tave/1.png)
 ##### Modo Tester testea con la Chromium Tools en un espacio de modo de concetracion
+![alt text](https://techappssv.github.io/Tave/1.png)
 
 ## ADVERTENCIA: Tave esta en etapa de pruebas puede contener multiples errores
 
