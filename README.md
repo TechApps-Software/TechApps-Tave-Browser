@@ -60,13 +60,12 @@ https://techappssv.github.io/Tave/index.html#tres
 ##### Personalizacion al gusto de tamaños y colores
 ![alt text](https://techappssv.github.io/Tave/2.png)
 ##### Modo de desarrollo espacio aislado para concentracion y con barra lateral
-![alt text](https://techappssv.github.io/Tave/1.png)
+![alt text](https://techappssv.github.io/Tave/5.png)
 ##### Tave Code editor de codigo basico con completado HTML 
-![alt text](https://techappssv.github.io/Tave/1.png)
-##### Busqueda en ventanas haz busquedas en ventanas
-![alt text](https://techappssv.github.io/Tave/1.png)
+![alt text](https://techappssv.github.io/Tave/7.png)
+##### Busqueda en ventanas haz busquedas en ventanas(DESCONTINUADO)
+
 ##### Modo Tester testea con la Chromium Tools en un espacio de modo de concetracion
-![alt text](https://techappssv.github.io/Tave/1.png)
 
 ## ADVERTENCIA: Tave esta en etapa de pruebas puede contener multiples errores
 
